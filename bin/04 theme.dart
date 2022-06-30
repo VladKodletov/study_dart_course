@@ -1,3 +1,3 @@
 void main() {
-var proverkaCommit = 5;
+var checkCommit = 5;
 }
